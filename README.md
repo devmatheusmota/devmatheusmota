@@ -1,8 +1,6 @@
-<img align='right' height='600em' src='https://raw.githubusercontent.com/gist/devmatheusmota/6a7fd17004ef8d76374bacfe4598e71f/raw/7c29c3c2b9eb4650b7d304cdabe3fb26d731539c/githubcard.svg'/>
-<h1 align='left'>Olá! Eu sou o Matheus Mota <img width="30px" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif"/></h1>
+<img align='right' height='560em' src='https://raw.githubusercontent.com/gist/devmatheusmota/6a7fd17004ef8d76374bacfe4598e71f/raw/7c29c3c2b9eb4650b7d304cdabe3fb26d731539c/githubcard.svg'/>
+<h1 align='left'>Hi! I'm Matheus Mota <img width="30" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif"></h1>
 <p align='left'><img src='https://komarev.com/ghpvc/?username=devmatheusmota&color=yellow'/></p>
-
-#### Futuro Engenheiro de Software, apaixonado por tecnologia e que ama aprender coisas novas!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mota-oliveira/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519992903863/)
