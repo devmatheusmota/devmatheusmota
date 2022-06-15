@@ -1,5 +1,5 @@
-<img style='display: flex' align='right' height='500em' src='https://raw.githubusercontent.com/gist/devmatheusmota/6a7fd17004ef8d76374bacfe4598e71f/raw/7c29c3c2b9eb4650b7d304cdabe3fb26d731539c/githubcard.svg'/>
-<h1 align='left'>Olá! Eu sou o Matheus Mota <img width='10px' src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif'/></h1>
+<img align='right' height='600em' src='https://raw.githubusercontent.com/gist/devmatheusmota/6a7fd17004ef8d76374bacfe4598e71f/raw/7c29c3c2b9eb4650b7d304cdabe3fb26d731539c/githubcard.svg'/>
+<h1 align='left'>Olá! Eu sou o Matheus Mota <img width="30px" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif"/></h1>
 <p align='left'><img src='https://komarev.com/ghpvc/?username=devmatheusmota&color=yellow'/></p>
 
 #### Futuro Engenheiro de Software, apaixonado por tecnologia e que ama aprender coisas novas!
