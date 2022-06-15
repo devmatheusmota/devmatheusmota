@@ -5,9 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mota-oliveira/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519992903863/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/motaa1996/)
-
+<div align='left'>
 ![Matheus Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmatheusmota&show_icons=true&theme=dracula)
-
+</div>
 ## Tecnologias que uso no meu dia
 
 <div style='display: inline-block'>
