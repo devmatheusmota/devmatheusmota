@@ -5,9 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mota-oliveira/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519992903863/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/motaa1996/)
-<img align='left' src='https://github-readme-stats.vercel.app/api?username=devmatheusmota&show_icons=true&theme=dracula' />
 
-## Tecnologias que uso no meu dia
+## Technologies
 
 <div align='left' style='display: inline-block'>
   <img align='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -18,5 +17,4 @@
   <img align='center' alt='expressjs' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'>  
 </div><br/>
 
-
-
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=devmatheusmota&show_icons=true&theme=dracula' />
