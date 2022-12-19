@@ -24,4 +24,4 @@
   <img align='center' alt='docker' src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'>
 </div><br/>
 
-<img src='https://github-readme-stats.vercel.app/api?username=devmatheusmota&show_icons=true&theme=dracula' />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmatheusmota&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
